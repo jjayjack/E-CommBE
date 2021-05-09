@@ -10,6 +10,8 @@
   Back-end development that can be linked to front-end to ensure customer's ability to manage inventory. Currently this back-end application allows the user to add, edit, and delete data from Insomnia Core based on pre-determined routes such as Category, Tags and Product. 
   
   ## Visuals for deployment on command line:
+
+  ## Seeding Database on command line:
   
 
   ## GET routes testing
