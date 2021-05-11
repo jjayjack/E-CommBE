@@ -1,5 +1,8 @@
 # E-CommBE
 
+## Link to Video WalkThrough:
+https://drive.google.com/file/d/1KD_utHAqr4ol7_bCGMQEopAJotLwheRN/view?usp=sharing
+
   ## Description:
   The purpose of this application is to assist in the back-end development for an online retailer. Through this application, a manager can manage the database for inventory by adding items, updating items and deleting items. 
   
@@ -20,14 +23,6 @@
   ## Start Server from command line:
   ![erlTV0Te9T](https://user-images.githubusercontent.com/79474830/117564784-6ceb0000-b073-11eb-81b2-2bde12b2e2d9.gif)
   
-  ## GET routes testing:
-  
-  ## GET by ID routes testing
-
-  ## POST Categories Route | PUT Categories Route | DELETE Categories Route
-
-  ## POST Products Route | PUT Products Route | DELETE Products Route
-
-  ## POST Tags Route | PUT Tags Route | DELETE Tags Route
+ 
 
   
